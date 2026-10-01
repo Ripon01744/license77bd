@@ -4,7 +4,7 @@
             "key": "STF",
             "status": "active",
             "expires_at": "2044-12-31",
-            "domains": ["www.pgk555.com", "pgk555.com", "pgk555.tech", "www.pgk555.tech"],
+            "domains": ["pgk555.tech", "www.pgk555.tech"],
             "note": "",
             "install_id": "",
             "nonce": "",
