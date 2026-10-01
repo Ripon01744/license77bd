@@ -1,1 +1,14 @@
-
+{
+    "licenses": {
+        "STF": {
+            "key": "STF",
+            "status": "active",
+            "expires_at": "2044-12-31",
+            "domains": ["www.pgk555.com", "pgk555.com", "pgk555.tech", "www.pgk555.tech"],
+            "note": "",
+            "install_id": "",
+            "nonce": "",
+            "sig": "9357ea469931214bf5c9b0d17294ccb2c6a85a3c43b1a5808a84684ca0b0927c"
+        }
+    }
+}
