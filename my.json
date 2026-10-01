@@ -4,11 +4,11 @@
             "key": "STF",
             "status": "active",
             "expires_at": "2044-12-31",
-            "domains": ["pgk555.tech", "www.pgk555.tech"],
+            "domains": ["pgk555.tech", "www.pgk555.tech", "editlabpro.com", "www.editlabpro.com"],
             "note": "",
             "install_id": "",
             "nonce": "",
-            "sig": "f750e855f1fb2dd317bf2bcd8a64c2f5b5ec2ed090992edbda330888ee31c139"
+            "sig": "fe2c320b39b513c7cb0e33e56062b6b30354d9274501d3fea622e06f9a5eaf7a"
         }
     }
 }
